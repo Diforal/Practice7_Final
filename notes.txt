@@ -1,3 +1,0 @@
-Today we reviewed working with files
-We covered the difference between text and binary files
-We practiced opening and closing files
